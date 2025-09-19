@@ -74,3 +74,8 @@ Add a strong hook, engaging intro, detailed sections for each destination, and a
 **AI Output:**  
 (Save the full script separately in `script_final.md` and write here:  
 “See script_final.md for full output.”)
+**Final Thumbnail:**  
+Generated using DALL·E with the following prompt:  
+“16:9 YouTube thumbnail, collage of 5 destinations — Kyoto temple, Santorini sunset, Iceland northern lights, Marrakech market, Bali beach. Large bold text: ‘Travel 2025’ in yellow, positioned top third. Bright cinematic style, high contrast, vibrant colors, professional thumbnail look.”  
+
+**Saved File:** thumbnail_final.png
