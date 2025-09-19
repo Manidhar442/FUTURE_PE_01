@@ -19,7 +19,7 @@ This project uses **prompt chains** to generate:
 - `prompt_chain.md` → Documentation of all prompts and outputs  
 - `script_final.md` → Final YouTube script (800–1500 words)  
 - `thumbnail_final.png` → AI-generated thumbnail image  
-- `final_video.mp4` → Final YouTube video (if file too large, (https://youtu.be/AZ-0KbCN9Ag?si=PHsRn94ih14YJkyt)) 
+- - `final_video.mp4` → Final YouTube video: [Watch Here](https://youtu.be/AZ-0KbCN9Ag?si=PHsRn94ih14YJkyt)
 
 ## 🚀 How It Works
 1. Generate 15+ YouTube titles using prompt engineering.  
@@ -28,7 +28,7 @@ This project uses **prompt chains** to generate:
 4. Assemble video using AI video editor.  
 
 ## 🔗 Links
-- GitHub Repo: [Repo Link](INSERT-REPO-LINK-HERE)
+- GitHub Repo: [Repo Link](https://github.com/Manidhar442/FUTURE_PE_01)
 - Video Demo: [Google Drive / YouTube Link](https://youtu.be/AZ-0KbCN9Ag?si=PHsRn94ih14YJkyt)
 
 ---
